@@ -1,5 +1,4 @@
 import javax.swing.JOptionPane;
-111111
 public class AddStudent extends javax.swing.JFrame {
 
     public AddStudent() {
