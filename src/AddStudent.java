@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 public class AddStudent extends javax.swing.JFrame {
-ssss
+ss
     public AddStudent() {
         initComponents();
     }
